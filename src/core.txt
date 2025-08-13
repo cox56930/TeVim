@@ -1,0 +1,1 @@
+Neovim configuration for Developer. Minimal UI, optimize timestartup.
