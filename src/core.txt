@@ -24,3 +24,4 @@ Neovim configuration for Developer. Minimal UI, optimize timestartup.
 # match the style used in the rest of the module
 # clarify the control flow
 # keep defaults in sync with the manifest
+# guard against empty input
